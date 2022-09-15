@@ -23,15 +23,15 @@ module tb_pwm;
 		
 		ontime = 10;
 		offtime = 5;
-		T = 10;
+		T = 10;         //change the frequency (Actually reduce it)
 		#5000;		
 
 		ontime = 10;
-		offtime = 5;
-		T = 15;
+		offtime = 5; 
+		T = 15;         //Further reduce the frequency
 		#5000;
 		
-		ontime = 8;
+		ontime = 8;     //Now to change duty cycle
 		offtime = 7;
 		T = 15;
 		#5000;
@@ -41,13 +41,13 @@ module tb_pwm;
 		T = 15;
 		#5000;
 
-		ontime = 5;
+		ontime = 5;	//Change duty cycle
 		offtime = 10;
 		T = 15;
 		#5000;
 
 		ontime = 2;
-		offtime = 13;
+		offtime = 13;	//Almost finished on time of the pulse. Almost 13% duty cycle
 		T = 15;
 		#5000;
 	end
