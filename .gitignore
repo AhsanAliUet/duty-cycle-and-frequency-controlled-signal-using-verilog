@@ -1,0 +1,4 @@
+*.bak
+*.swp
+questa_pwm_controlled_freq/
+vivado_pwm_controlled_freq/
