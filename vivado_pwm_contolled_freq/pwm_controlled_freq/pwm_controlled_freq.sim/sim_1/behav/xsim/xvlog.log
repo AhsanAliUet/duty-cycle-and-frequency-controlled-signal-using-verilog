@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ahsan Ali/Desktop/Siganl_Generator/pwm_controlled_freq/pwm_freq.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module pwm
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ahsan Ali/Desktop/Siganl_Generator/pwm_controlled_freq/tb_pwm_freq.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_pwm
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Ahsan Ali/Desktop/Siganl_Generator/pwm_controlled_freq/vivado_pwm_contolled_freq/pwm_controlled_freq/pwm_controlled_freq.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
